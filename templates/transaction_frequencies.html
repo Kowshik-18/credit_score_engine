@@ -1,0 +1,74 @@
+{% extends 'index.html' %} 
+
+{% block content %}
+
+<h1 class="text-2xl font-bold text-center text-blue-900">Loan Prediction Results</h1>
+<div class="container mx-auto p-4">
+    <table class="min-w-full bg-blue-900">
+        <thead>
+          <tr>
+            <th class="py-2 px-4 text-center text-yellow-400">Wallet No</th>
+            <th class="py-2 px-4 text-center text-yellow-400">Name</th>
+            <th class="py-2 px-4 text-center text-yellow-400">Status</th>
+            <th class="py-2 px-4 text-center text-yellow-400"> Packages</th>
+            <th class="py-2 px-4 text-center text-yellow-400"> Loan Amount</th>
+            <th class="py-2 px-4 text-center text-yellow-400">% of Eligibility</th>
+            <th class="py-2 px-4 text-center text-yellow-400">% of Non Eligibility</th>
+            <th class="py-2 px-2 text-center text-yellow-400"> % of Under Consideration</th>
+
+          </tr>
+        </thead>
+        <tbody>
+          {% for entry in merged_data %}
+          <tr>
+            <td class="py-2 px-4 text-center">
+              <span class="text-blue-300 font-bold">{{ entry.wallet_no }}</span>
+            </td>
+            <td class="py-2 px-4 text-center">
+              <span class="text-white">{{ entry.name }}</span>
+            </td>
+            {% if entry.status == 0 %}
+            <td class="py-2 px-4 bg-green-500"> <span class="text-white">Eligible</span> </td>
+            <td class="py-2 px-4">
+              <span class="flex items-center text-white justify-center">{{ entry.Package_Type }}</span>
+            </td>
+            <td class="py-2 px-4">
+              <span class="flex items-center text-white justify-center">{{ entry.Package_Amount }}</span>
+            </td>
+            {% elif entry.status == 1 %}
+            <td class="py-2 px-4 bg-red-500"> <span class="text-white">Not Eligible</span> </td>
+            <td class="py-2 px-4">
+              <span class="flex items-center text-white justify-center">{{ entry.Package_Type }}</span>
+            </td>
+            <td class="py-2 px-4">
+              <span class="flex items-center text-white justify-center">{{ entry.Package_Amount }}</span>
+            </td>
+            {% elif entry.status == 2 %}
+            <td class="py-2 px-4 bg-yellow-600"> <span class=" text-white">Under Consideration</span> </td>
+            <td class="py-2 px-4">
+              <span class="flex items-center text-white justify-center">{{ entry.Package_Type }}</span>
+            </td>
+            <td class="py-2 px-4">
+              <span class="flex items-center text-white justify-center">{{ entry.Package_Amount }}</span>
+            </td>
+            {% endif %}
+      
+            <td class="py-2 px-4">
+              <span class="flex items-center text-white  justify-center">{{ entry.Eligibility }}</span>
+            </td>
+            <td class="py-2 px-4">
+              <span class="flex items-center text-white justify-center">{{ entry.Non_Eligibility }}</span>
+            </td>
+            <td class="py-3 px-2">
+              <span class="flex items-center text-white justify-center">{{ entry.Under_Consideration }}</span>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      
+    
+  </div>
+
+
+{% endblock %}    

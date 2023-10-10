@@ -1,0 +1,24 @@
+{% extends 'index.html' %} 
+
+{% load custom_filters %}
+
+{% block content %}
+    <h1>Coefficient of Variation Result</h1>
+    <table>
+        <thead>
+            <tr>
+                <th class="py-2 px-4 text-left">Wallet No</th>
+                <th class="py-2 px-4 text-left">Balance Deviation (CV)</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for entry in cv_data %}
+            <tr>
+                <td class="py-2 px-4">{{ entry|get_dict_value:"Wallet No" }}</td>
+                <td class="py-2 px-4">{{ entry|get_dict_value:"Balance Deviation (CV)" }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+{% endblock %}
