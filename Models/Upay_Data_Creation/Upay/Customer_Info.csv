@@ -1,0 +1,14 @@
+Name,Wallet No,Address,Gender,Balance,Age,Occupation,Loan Approval
+Abdullah Al Mamun,1712345678,Urban,Male,29300,29,Business,Eligible
+Ayesha Kabir,1887654321,Rural,Female,100,35,Student,UC
+Jamal Ahmed,1913579246,Urban,Male,38250,38,Business,Eligible
+Selina Begum,1624681012,Urban,Female,57547.3,39,Doctor,Eligible
+Rahim Miah,1597531864,Urban,Male,2475.19,24,Student,Eligible
+Khadija Khatun,1486429753,Rural,Female,25090.47,42,Business,UC
+Ali Hossain,1375318942,Urban,Male,5880.18,36,Private Service,UC
+Fatima Akter,1864281097,Urban,Female,759.44,37,Lawyer,Not Eligible
+Karim Ahmed,1553197286,Urban,Male,2316.69,26,Farmer,Not Eligible
+Sultana Begum,1798765432,Rural,Female,4891.91,36,House Wife,Not Eligible
+Kabir Hossain,1475316942,Urban,Male,43.37,43,NGO,Not Eligible
+Romana Akter,1897549864,Rural,Female,8323.28,27,House Wife,Not Eligible
+Antu Chowdhury,1554311669,Urban,Male,1251.29,21,Student,Not Eligible
