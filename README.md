@@ -13,7 +13,6 @@ We have created a demo user interface using react in the front-end and django in
 This is the project's homepage, where it outlines the project. In the navbar there is another button that will redirect the user to the loan eligibility test page.
 ![1](https://github.com/Kowshik-18/credit_score_engine/blob/main/Project_Screenshots/homePage.png)
 
-
 ### Loan Eligibility Test Page
 Users can submit customer information and transaction histories as a csv file to this page. The user will receive a success notification after uploading them. After inputting the information, the user will be sent to the loan prediction result page.
 
@@ -23,12 +22,6 @@ Users can submit customer information and transaction histories as a csv file to
 ### Loan Prediction Result Page
 This page shows the results of loan eligibility using customer information and transaction history of customers. This information is fed into the machine learning model, and it shows the wallet number, name, status, available packages, and amount of the loan based on their status, percentages of eligibility, non-eligibility and under consideration.
 ![4](https://github.com/Kowshik-18/credit_score_engine/blob/main/Project_Screenshots/predictionResultPage.png)
-<!-- ## Home
-![Pull-Up](https://github.com/RaiyanMahin/AI-Fitness-Trainer-6th-Semester-Artificial-Intelligence-Academic-Project-/blob/main/Exercises%20Count%20%20Screenshots/pull_up.png?raw=true)
-## Push-Up Exercise
-![Push-Up](https://github.com/RaiyanMahin/AI-Fitness-Trainer-6th-Semester-Artificial-Intelligence-Academic-Project-/blob/main/Exercises%20Count%20%20Screenshots/push_up_2.png?raw=true)
-## Squat Exercise
-![Squat](https://github.com/RaiyanMahin/AI-Fitness-Trainer-6th-Semester-Artificial-Intelligence-Academic-Project-/blob/main/Exercises%20Count%20%20Screenshots/squat_2.png?raw=true) -->
 
 # Documentation:
 https://docs.google.com/document/d/1Vv-o3vLFDROEZuxc5snFZp-YmE00O3Ii/edit?usp=sharing&ouid=114144251286523500250&rtpof=true&sd=true
@@ -39,24 +32,20 @@ https://docs.google.com/document/d/1Vv-o3vLFDROEZuxc5snFZp-YmE00O3Ii/edit?usp=sh
 * GitHub: [@mnhmilu](https://github.com/mnhmilu)
 
 ## Contributors
-👤 **Ahammed Zayed Uddin Rahat**
-* LinkedIn: [@ahammed-zayed-uddin-rahat-18cse](https://www.linkedin.com/in/ahammed-zayed-uddin-rahat-18cse/)
-* GitHub: [@Zayed-Rahat](https://github.com/Zayed-Rahat)
-
-👤 **Kowshik Chowdhury**
-* LinkedIn: [@kowshik-chowdhury-44419819a](https://www.linkedin.com/in/kowshik-chowdhury-44419819a/)
-* GitHub: [@Kowshik-18](https://github.com/Kowshik-18)
-
-👤 **Mohammad Akbar**
-* LinkedIn: [@mohammad-akbar2603](https://www.linkedin.com/in/mohammad-akbar2603/)
-* GitHub: [@smhproduct](https://github.com/smhproduct)
 
 👤 **Arif Mohammad Asfe**
 * LinkedIn: [@arifasfe](https://www.linkedin.com/in/arifasfe/)
 * GitHub: [@arifasfe](https://github.com/arifasfe)
-
+👤 **Mohammad Akbar**
+* LinkedIn: [@mohammad-akbar2603](https://www.linkedin.com/in/mohammad-akbar2603/)
+* GitHub: [@smhproduct](https://github.com/smhproduct)
+👤 **Ahammed Zayed Uddin Rahat**
+* LinkedIn: [@ahammed-zayed-uddin-rahat-18cse](https://www.linkedin.com/in/ahammed-zayed-uddin-rahat-18cse/)
+* GitHub: [@Zayed-Rahat](https://github.com/Zayed-Rahat)
 👤 **Rajarshi Sen**
 * LinkedIn: [@rajarshi-sen-5ab5b61bb](https://www.linkedin.com/in/rajarshi-sen-5ab5b61bb/)
-
 👤 **Antu Chowdhury**
 * LinkedIn: [@antu-chowdhury-167045200](https://www.linkedin.com/in/antu-chowdhury-167045200/)
+👤 **Kowshik Chowdhury**
+* LinkedIn: [@kowshik-chowdhury-44419819a](https://www.linkedin.com/in/kowshik-chowdhury-44419819a/)
+* GitHub: [@Kowshik-18](https://github.com/Kowshik-18)
