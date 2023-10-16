@@ -36,16 +36,21 @@ https://docs.google.com/document/d/1Vv-o3vLFDROEZuxc5snFZp-YmE00O3Ii/edit?usp=sh
 👤 **Arif Mohammad Asfe**
 * LinkedIn: [@arifasfe](https://www.linkedin.com/in/arifasfe/)
 * GitHub: [@arifasfe](https://github.com/arifasfe)
+
 👤 **Mohammad Akbar**
 * LinkedIn: [@mohammad-akbar2603](https://www.linkedin.com/in/mohammad-akbar2603/)
 * GitHub: [@smhproduct](https://github.com/smhproduct)
+
 👤 **Ahammed Zayed Uddin Rahat**
 * LinkedIn: [@ahammed-zayed-uddin-rahat-18cse](https://www.linkedin.com/in/ahammed-zayed-uddin-rahat-18cse/)
 * GitHub: [@Zayed-Rahat](https://github.com/Zayed-Rahat)
+
 👤 **Rajarshi Sen**
 * LinkedIn: [@rajarshi-sen-5ab5b61bb](https://www.linkedin.com/in/rajarshi-sen-5ab5b61bb/)
+
 👤 **Antu Chowdhury**
 * LinkedIn: [@antu-chowdhury-167045200](https://www.linkedin.com/in/antu-chowdhury-167045200/)
+
 👤 **Kowshik Chowdhury**
 * LinkedIn: [@kowshik-chowdhury-44419819a](https://www.linkedin.com/in/kowshik-chowdhury-44419819a/)
 * GitHub: [@Kowshik-18](https://github.com/Kowshik-18)
