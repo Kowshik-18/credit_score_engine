@@ -11,27 +11,24 @@ The project focuses on developing a credit scoring system for Upay users using m
 We have created a demo user interface using react in the front-end and django in the back-end along with the integration of our trained machine learning model.
 ### Home Page
 This is the project's homepage, where it outlines the project. In the navbar there is another button that will redirect the user to the loan eligibility test page.
-![1](https://github.com/arifasfe/credit-scoring-engine/assets/67276690/a36b0dd7-e7a0-48ce-84be-f868176149d7)
+![1](https://github.com/Kowshik-18/credit_score_engine/blob/main/Project_Screenshots/homePage.png)
 
 
 ### Loan Eligibility Test Page
 Users can submit customer information and transaction histories as a csv file to this page. The user will receive a success notification after uploading them. After inputting the information, the user will be sent to the loan prediction result page.
 
-![2](https://github.com/arifasfe/credit-scoring-engine/assets/67276690/710aa38d-71fe-4b2b-8b35-628127f37271)
+![2](https://github.com/Kowshik-18/credit_score_engine/blob/main/Project_Screenshots/uploadCsvFile.png)
 ### Success Notification for Uploading
-![3](https://github.com/arifasfe/credit-scoring-engine/assets/67276690/f640586a-f372-4f21-a482-c6033429b2d9)
+![3](https://github.com/Kowshik-18/credit_score_engine/blob/main/Project_Screenshots/success.png)
 ### Loan Prediction Result Page
 This page shows the results of loan eligibility using customer information and transaction history of customers. This information is fed into the machine learning model, and it shows the wallet number, name, status, available packages, and amount of the loan based on their status, percentages of eligibility, non-eligibility and under consideration.
-![4](https://github.com/arifasfe/credit-scoring-engine/assets/67276690/dd186106-6e67-4dc7-b4f4-ab44a97b9459)
-
-
-## Home
+![4](https://github.com/Kowshik-18/credit_score_engine/blob/main/Project_Screenshots/predictionResultPage.png)
+<!-- ## Home
 ![Pull-Up](https://github.com/RaiyanMahin/AI-Fitness-Trainer-6th-Semester-Artificial-Intelligence-Academic-Project-/blob/main/Exercises%20Count%20%20Screenshots/pull_up.png?raw=true)
 ## Push-Up Exercise
 ![Push-Up](https://github.com/RaiyanMahin/AI-Fitness-Trainer-6th-Semester-Artificial-Intelligence-Academic-Project-/blob/main/Exercises%20Count%20%20Screenshots/push_up_2.png?raw=true)
 ## Squat Exercise
-![Squat](https://github.com/RaiyanMahin/AI-Fitness-Trainer-6th-Semester-Artificial-Intelligence-Academic-Project-/blob/main/Exercises%20Count%20%20Screenshots/squat_2.png?raw=true)
-
+![Squat](https://github.com/RaiyanMahin/AI-Fitness-Trainer-6th-Semester-Artificial-Intelligence-Academic-Project-/blob/main/Exercises%20Count%20%20Screenshots/squat_2.png?raw=true) -->
 
 # Documentation:
 https://docs.google.com/document/d/1Vv-o3vLFDROEZuxc5snFZp-YmE00O3Ii/edit?usp=sharing&ouid=114144251286523500250&rtpof=true&sd=true
@@ -59,7 +56,7 @@ https://docs.google.com/document/d/1Vv-o3vLFDROEZuxc5snFZp-YmE00O3Ii/edit?usp=sh
 * GitHub: [@arifasfe](https://github.com/arifasfe)
 
 👤 **Rajarshi Sen**
-* LinkedIn: [@kowshik-chowdhury-44419819a](https://www.linkedin.com/in/rajarshi-sen-5ab5b61bb/)
+* LinkedIn: [@rajarshi-sen-5ab5b61bb](https://www.linkedin.com/in/rajarshi-sen-5ab5b61bb/)
 
 👤 **Antu Chowdhury**
 * LinkedIn: [@antu-chowdhury-167045200](https://www.linkedin.com/in/antu-chowdhury-167045200/)
