@@ -37,7 +37,7 @@ https://docs.google.com/document/d/1Vv-o3vLFDROEZuxc5snFZp-YmE00O3Ii/edit?usp=sh
 * LinkedIn: [@arifasfe](https://www.linkedin.com/in/arifasfe/)
 * GitHub: [@arifasfe](https://github.com/arifasfe)
 
-👤 **Mohammad Akbar**
+👤 **Mohammad Akbar Bin Shah**
 * LinkedIn: [@mohammad-akbar2603](https://www.linkedin.com/in/mohammad-akbar2603/)
 * GitHub: [@smhproduct](https://github.com/smhproduct)
 
