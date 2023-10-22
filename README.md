@@ -46,6 +46,7 @@ https://docs.google.com/document/d/1Vv-o3vLFDROEZuxc5snFZp-YmE00O3Ii/edit?usp=sh
 * GitHub: [@Zayed-Rahat](https://github.com/Zayed-Rahat)
 
 👤 **Rajarshi Sen**
+* GitHub: [Rajarshi-sen24](https://github.com/Rajarshi-sen24)
 * LinkedIn: [@rajarshi-sen-5ab5b61bb](https://www.linkedin.com/in/rajarshi-sen-5ab5b61bb/)
 
 👤 **Antu Chowdhury**
